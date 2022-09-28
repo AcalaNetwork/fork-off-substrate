@@ -106,6 +106,9 @@ dist
 
 .idea
 
+fork-mandala/output
+fork-mandala/node_modules
+fork-karura/output
+fork-karura/node_modules
 fork-acala/output
 fork-acala/node_modules
-fork-mandala/output
